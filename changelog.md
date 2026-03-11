@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.0.6 - 2026-03-11
+
+### What's Changed
+
+* Bump docker/build-push-action from 6 to 7 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/space-runner/pull/26
+* Bump docker/metadata-action from 5 to 6 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/space-runner/pull/25
+* Bump docker/setup-buildx-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/space-runner/pull/24
+* Bump docker/setup-qemu-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/space-runner/pull/23
+* Bump docker/login-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/space-runner/pull/22
+
+**Full Changelog**: https://github.com/bavix/space-runner/compare/v0.0.5...v0.0.6
+
 ## v0.0.5 - 2026-02-27
 
 ### What's Changed
